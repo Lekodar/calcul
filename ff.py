@@ -1,4 +1,3 @@
 print("hasfnvhasvffsbb")
-print("12")
-print("21e12e1")
-print("12 t234t 242t23f")
+print("4y555534yv3cy6")
+print("4eyue4b6y3vy35t5yv")
